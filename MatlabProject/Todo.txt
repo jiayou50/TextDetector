@@ -1,0 +1,7 @@
+
+Histogram of gradients descriptor (DONE)
+
+Image labeling tool
+    a small tool to pick out text regions from a image
+
+Boost decision tree
